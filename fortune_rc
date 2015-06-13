@@ -30,7 +30,7 @@ no_buffers yes
 cpu_avg_samples 1
 uppercase no
 border_inner_margin 15
-
+ 
 #colors
 color1 00cb00
 color2 slategray
