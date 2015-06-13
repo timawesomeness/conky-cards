@@ -33,7 +33,7 @@ border_inner_margin 15
 color1 00cb00
 color2 slategray
 color3 101010
-
+ 
 TEXT
 ${color1}${font Oswald:size=10:bold}NETWORK ${color2} ${hr 2}
 ${if_up usb0}
